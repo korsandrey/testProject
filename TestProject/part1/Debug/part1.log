@@ -1,0 +1,4 @@
+﻿  LibraryStat.cpp
+LibraryDyn.obj : warning LNK4006: "char ILevel" (?ILevel@@3DA) уже определен в LibraryStat.obj; второе определение пропущено
+LibraryDyn.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > fileName" (?fileName@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в LibraryStat.obj; второе определение пропущено
+  part1.vcxproj -> C:\Users\korsa\source\repos\TestProject\Debug\part1.lib
