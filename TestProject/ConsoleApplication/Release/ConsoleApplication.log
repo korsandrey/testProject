@@ -1,6 +1,0 @@
-﻿ConsoleApplication.obj : error LNK2001: неразрешенный внешний символ "void __cdecl writeSomeInformation(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,char)" (?writeSomeInformation@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@D@Z).
-ConsoleApplication.obj : error LNK2001: неразрешенный внешний символ "void __cdecl changeDefaultLevel(void)" (?changeDefaultLevel@@YAXXZ).
-ConsoleApplication.obj : error LNK2001: неразрешенный внешний символ "void __cdecl makeFName(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?makeFName@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z).
-ConsoleApplication.obj : error LNK2001: неразрешенный внешний символ "void __cdecl makeNewEnterense(void)" (?makeNewEnterense@@YAXXZ).
-ConsoleApplication.obj : error LNK2001: неразрешенный внешний символ "void __cdecl makeILevel(char)" (?makeILevel@@YAXD@Z).
-C:\Users\korsa\source\repos\TestProject\Release\ConsoleApplication.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
